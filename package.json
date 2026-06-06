@@ -1,7 +1,7 @@
 {
   "name": "react-toast-notifications",
-  "version": "0.1.0",
-  "description": "Toast notification system for React with a provider and hook.",
+  "version": "0.2.0",
+  "description": "Accessible, headless toast notifications for React: 6 positions, variants, action buttons, promise toasts, pause-on-hover, and max-stack — strict TypeScript, zero runtime deps.",
   "type": "module",
   "license": "MIT",
   "author": "Viprasol Tech Private Limited",
@@ -23,7 +23,13 @@
     "snackbar",
     "typescript",
     "ui-components",
-    "hooks"
+    "hooks",
+    "toast-notifications",
+    "react-toast",
+    "promise-toast",
+    "accessible",
+    "headless",
+    "alert"
   ],
   "scripts": {
     "build": "tsc",
